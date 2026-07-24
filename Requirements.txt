@@ -1,0 +1,13 @@
+# Environment for the CSDE 2026 telecom churn profit experiments.
+# Notebooks were run on Kaggle (CPU only). Versions below are minimums that
+# match the Kaggle image used; adjust if you pin to an exact environment.
+
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+xgboost>=2.0
+lightgbm>=4.1
+imbalanced-learn>=0.12
+shap>=0.44
+matplotlib>=3.8
+joblib>=1.3
