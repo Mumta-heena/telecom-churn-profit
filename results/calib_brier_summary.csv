@@ -1,0 +1,7 @@
+dataset,strategy,none,platt,isotonic
+cell,classweight,0.2147,0.1904,0.1906
+cell,natural,0.1902,0.1902,0.1903
+cell,smote,0.2009,0.1907,0.1908
+maven,classweight,0.1081,0.1,0.1014
+maven,natural,0.1006,0.0992,0.1007
+maven,smote,0.1058,0.1,0.1016

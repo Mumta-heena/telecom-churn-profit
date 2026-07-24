@@ -1,0 +1,5 @@
+dataset,model,CV_AUC_mean,CV_AUC_std
+maven,LogReg,0.9099,0.0138
+maven,RF,0.9221,0.0141
+maven,XGB,0.9297,0.011
+maven,LGBM,0.9284,0.0101
